@@ -1,0 +1,52 @@
+webpackHotUpdate("static/development/pages/index.js",{
+
+/***/ "./pages/index.js":
+/*!************************!*\
+  !*** ./pages/index.js ***!
+  \************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "./node_modules/styled-jsx/style.js");
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _components_Header_Header__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Header/Header */ "./components/Header/Header.js");
+var _this = undefined,
+    _jsxFileName = "/Users/morganpierson/Projects/Rena/pages/index.js";
+
+
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
+
+
+var Index = function Index() {
+  return __jsx("div", {
+    className: "jsx-4089580844" + " " + "index-container",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4,
+      columnNumber: 3
+    }
+  }, __jsx(_components_Header_Header__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 5,
+      columnNumber: 3
+    }
+  }), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "4089580844",
+    __self: _this
+  }, "*{font-family:Roboto;box-sizing:border-box;}body{margin:0;background-color:#071a24;}h1,p{color:#f5f1d0;}h1{font-size:3rem;margin:0rem;}p{margin-top:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9tb3JnYW5waWVyc29uL1Byb2plY3RzL1JlbmEvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBUU0sQUFHNEIsQUFLVixBQU9iLEFBRWtCLEFBS2xCLFNBYjZCLElBYTVCLENBUEEsQ0FJRCxJQWYwQixRQWV6QixPQVJDLE9BTEEiLCJmaWxlIjoiL1VzZXJzL21vcmdhbnBpZXJzb24vUHJvamVjdHMvUmVuYS9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBIZWFkZXIgZnJvbSAnLi4vY29tcG9uZW50cy9IZWFkZXIvSGVhZGVyJ1xuXG5jb25zdCBJbmRleCA9ICgpID0+IChcbiAgPGRpdiBjbGFzc05hbWU9XCJpbmRleC1jb250YWluZXJcIj5cbiAgPEhlYWRlciAvPlxuICAgIFxuICAgIFxuICAgIDxzdHlsZSBqc3ggZ2xvYmFsPntcbiAgICAgIGBcbiAgICAgICoge1xuICAgICAgICBmb250LWZhbWlseTogUm9ib3RvO1xuICAgICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xuICAgICAgICBcbiAgICAgIH1cbiAgICAgIGJvZHkge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMwNzFhMjQ7XG5cbiAgICAgIH1cbiAgICBcbiAgICAgaDEsIHAge1xuICAgICAgIGNvbG9yOiAjZjVmMWQwXG4gICAgIH1cbiAgICAgaDEge1xuICAgICAgIGZvbnQtc2l6ZTogM3JlbTtcbiAgICAgICBtYXJnaW46IDByZW1cbiAgICAgfVxuICAgICBwIHtcbiAgICAgICBtYXJnaW4tdG9wOiAwXG4gICAgIH1cbiAgICAgXG4gICAgICBgXG4gICAgfVxuICAgIDwvc3R5bGU+XG4gIDwvZGl2PlxuKVxuXG5leHBvcnQgZGVmYXVsdCBJbmRleCJdfQ== */\n/*@ sourceURL=/Users/morganpierson/Projects/Rena/pages/index.js */"));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Index);
+
+/***/ })
+
+})
+//# sourceMappingURL=index.js.77bc1fe6f48c480efad0.hot-update.js.map
